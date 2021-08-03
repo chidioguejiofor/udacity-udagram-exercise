@@ -1,5 +1,13 @@
 # Udagram Image Filtering Microservice
 
+
+## Project Solution
+- You can access the application at http://development222.eu-central-1.elasticbeanstalk.com/
+- The url to get a filtered image is http://development222.eu-central-1.elasticbeanstalk.com/filteredimage (eg http://development222.eu-central-1.elasticbeanstalk.com/filteredimage?image_url=https://media.istockphoto.com/photos/portrait-of-lovely-brunette-teenage-girl-showing-heart-shape-with-picture-id1203078825)
+- The image of the screenshot has been added to the `deployment_screenshots` folder
+
+## Problem statement
+
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
 The project is split into three parts:
